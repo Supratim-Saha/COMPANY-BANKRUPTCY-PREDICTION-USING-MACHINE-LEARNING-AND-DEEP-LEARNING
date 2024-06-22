@@ -1,4 +1,5 @@
 # COMPANY-BANKRUPTCY-PREDICTION-USING-MACHINE-LEARNING-AND-DEEP-LEARNING
+# PPT LINK- https://docs.google.com/presentation/d/163ay2MRX592wSvZU2ayP0U4sMJ6abeR8/edit?usp=sharing&ouid=104741376133826032514&rtpof=true&sd=true #
 Predicting company bankruptcies is a critical task in financial risk management. This project 
 explores the use of machine learning and deep learning techniques to develop accurate 
 bankruptcy prediction models. By leveraging financial indicators and performance metrics from 
